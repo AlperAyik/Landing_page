@@ -2,3 +2,4 @@
 #I have built a Landing page for my favorite drink Jarritos!
 #I have added a function that when you choose another drink on the bottom of the page the image changes, and a new text pops up.
 
+#I will also add a product page in the future.
